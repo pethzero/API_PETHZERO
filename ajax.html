@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ใช้งาน Ajax ด้วย jQuery</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+
+<h1>ใช้งาน Ajax ด้วย jQuery</h1>
+<div id="result"></div>
+<button id="btnLoadData">ดาวน์โหลดข้อมูล</button>
+
+<script>
+  $(document).ready(function() {
+    // กำหนดเหตุการณ์ click สำหรับปุ่ม
+    $("#btnLoadData").click(function() {
+      console.log("Wow")
+      // เรียกใช้งานฟังก์ชัน $.ajax() เพื่อดึงข้อมูลจากไฟล์
+      
+      $.ajax({
+        url: "http://localhost:3000/data", // ไฟล์ที่ต้องการดึงข้อมูล
+        success: function(result) {
+          // การดึงข้อมูลสำเร็จ
+          console.log(result)
+        },
+        error: function(xhr, status, error) {
+          // การดึงข้อมูลไม่สำเร็จ
+          console.log("เกิดข้อผิดพลาด: " + error);
+        }
+      });
+
+    });
+  });
+  </script>
+</body>
+</html>

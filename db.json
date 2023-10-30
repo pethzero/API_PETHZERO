@@ -1,0 +1,98 @@
+{
+    "posts":
+    [
+        {
+            "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+            "id": 1,
+            "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+            "userId": 1
+        },
+        {
+            "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
+            "id": 2,
+            "title": "qui est esse",
+            "userId": 1
+        },
+        {
+            "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut",
+            "id": 3,
+            "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+            "userId": 1
+        },
+        {
+            "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit",
+            "id": 4,
+            "title": "eum et est occaecati",
+            "userId": 1
+        },
+        {
+            "body": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque",
+            "id": 5,
+            "title": "nesciunt quas odio",
+            "userId": 1
+        }
+    ],
+    "users":
+    [
+        {
+            "email": "Sincere@april.biz",
+            "id": 1,
+            "name": "Leanne Graham",
+            "username": "Bret"
+        },
+        {
+            "email": "Shanna@melissa.tv",
+            "id": 2,
+            "name": "Ervin Howell",
+            "username": "Antonette"
+        },
+        {
+            "email": "Nathan@yesenia.net",
+            "id": 3,
+            "name": "Clementine Bauch",
+            "username": "Samantha"
+        },
+        {
+            "email": "Julianne.OConner@kory.org",
+            "id": 4,
+            "name": "Patricia Lebsack",
+            "username": "Karianne"
+        },
+        {
+            "email": "Lucio_Hettinger@annie.ca",
+            "id": 5,
+            "name": "Chelsey Dietrich",
+            "username": "Kamren"
+        },
+        {
+            "email": "Karley_Dach@jasper.info",
+            "id": 6,
+            "name": "Mrs. Dennis Schulist",
+            "username": "Leopoldo_Corkery"
+        },
+        {
+            "email": "Telly.Hoeger@billy.biz",
+            "id": 7,
+            "name": "Kurtis Weissnat",
+            "username": "Elwyn.Skiles"
+        },
+        {
+            "email": "Sherwood@rosamond.me",
+            "id": 8,
+            "name": "Nicholas Runolfsdottir V",
+            "username": "Maxime_Nienow"
+        },
+        {
+            "email": "Chaim_McDermott@dana.io",
+            "id": 9,
+            "name": "Glenna Reichert",
+            "username": "Delphine"
+        },
+        {
+            "email": "Rey.Padberg@karina.biz",
+            "id": 10,
+            "name": "Clementina DuBuque",
+            "username": "Moriah.Stanton"
+        }
+    ]
+}
